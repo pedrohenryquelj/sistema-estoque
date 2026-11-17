@@ -1,0 +1,29 @@
+# Arquivos compilados do Java
+*.class
+*.log
+*.ctxt
+
+# Pacotes empacotados
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven e Gradle (para quando evoluir o projeto)
+target/
+build/
+.gradle/
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
